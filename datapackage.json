@@ -1,0 +1,37 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "cirurgia_2016",
+      "path": "data/cirurgia_2016.csv",
+      "profile": "tabular-data-resource",
+      "schema": "data/schema.json", 
+      "title": "Cirurgias por porte",
+      "format": "csv",
+      "encoding": "UTF-8",
+      "description": "Dados de Cirurgias realizadas em bloco cirúrgico por porte.\nPorte I – Com tempo de duração de até duas horas\nPorte II – Com tempo de duração de duas a quatro horas\nPorte III – Com tempo de duração de quatro até seis horas\nPorte IV – Com tempo de duração acima de seis horas"
+    }
+  ],
+  "keywords": [
+    "cirurgias",
+    "porte"
+  ],
+  "name": "cirurgias",
+  "title": "Cirurgias por porte",
+  "description": "Cirurgias realizadas em bloco cirúrgico por porte.",
+  "homepage": "https://github.com/fhemig",
+  "owner_org": "fundacao-hospitalar-do-estado-de-minas-gerais-fhemig",
+  "contributors": [
+    {
+      "title": "Maristela Guimarães Cáfaro Ferreira",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}

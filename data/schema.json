@@ -1,0 +1,41 @@
+{
+        "fields": [
+          {
+            "name": "unidade",
+            "type": "string",
+            "format": "default",
+            "title": "Unidade",
+            "description": "Sigla da unidade"
+          },
+          {
+            "name": "mes",
+            "type": "string",
+            "format": "default",
+            "title": "Mês",
+            "description": "Mês referente ao dado",
+            "groupChar": "."
+          },
+          {
+            "name": "ano",
+            "type": "number",
+            "format": "default",
+            "title": "Ano",
+            "description": "Ano referente ao dado"
+          },
+          {
+            "name": "porte",
+            "type": "string",
+            "format": "default",
+            "title": "Porte",
+            "description": "Porte da cirurgia"
+          },
+          {
+            "name": "quantidade",
+            "type": "number",
+            "format": "default",
+            "title": "Quantidade",
+            "description": "Quantidade de cirurgias realizadas",
+            "groupChar": "."
+          }
+        ]
+      }
