@@ -5,7 +5,7 @@
       "name": "cirurgia_2016",
       "path": "data/cirurgia_2016.csv",
       "profile": "tabular-data-resource",
-      "schema": "data/schema.json", 
+      "schema": "schemas/schema.json", 
       "title": "Cirurgias por porte - 2016",
       "format": "csv",
       "encoding": "UTF-8",
