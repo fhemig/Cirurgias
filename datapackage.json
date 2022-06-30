@@ -81,10 +81,16 @@
   "description": "Cirurgias realizadas em bloco cirúrgico por porte.",
   "homepage": "https://github.com/fhemig",
   "owner_org": "fundacao-hospitalar-do-estado-de-minas-gerais-fhemig",
+  "frequência de atualização":"mensal",
+   "temporal": {
+    "start": "2016-01-01",
+    "end": "2022-04-30"
+  },
   "contributors": [
     {
       "title": "Maristela Guimarães Cáfaro Ferreira",
-      "role": "author"
+      "role": "author",
+      "email": "gtgi.codi@fhemig.mg.gov.br"
     }
   ],
   "licenses": [
