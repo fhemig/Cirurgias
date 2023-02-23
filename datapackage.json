@@ -70,6 +70,16 @@
       "format": "csv",
       "encoding": "UTF-8",
       "description": "Dados de Cirurgias realizadas em bloco cirúrgico por porte.\nPorte I – Com tempo de duração de até duas horas\nPorte II – Com tempo de duração de duas a quatro horas\nPorte III – Com tempo de duração de quatro até seis horas\nPorte IV – Com tempo de duração acima de seis horas"
+    },
+    {
+      "name": "cirurgia_2023",
+      "path": "data/cirurgia_2023.csv",
+      "profile": "tabular-data-resource",
+      "schema": "schemas/schema_v1.json", 
+      "title": "Cirurgias por porte - 2023",
+      "format": "csv",
+      "encoding": "UTF-8",
+      "description": "Dados de Cirurgias realizadas em bloco cirúrgico por porte.\nPorte I – Com tempo de duração de até duas horas\nPorte II – Com tempo de duração de duas a quatro horas\nPorte III – Com tempo de duração de quatro até seis horas\nPorte IV – Com tempo de duração acima de seis horas"
     }
   ],
   "keywords": [
@@ -84,7 +94,7 @@
   "frequência de atualização":"mensal",
    "temporal": {
     "start": "2016-01-01",
-    "end": "2022-12-31"
+    "end": "2023-01-31"
   },
   "contributors": [
     {
